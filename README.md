@@ -1,1 +1,1 @@
-# querysSenacSQLServer
+# querysSenacSQLServer 💾
